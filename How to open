@@ -1,2 +1,3 @@
 Unzip the file in a folder and open netbeans.
 Now open this project in netbeans and run the "ShoppingJFrame.java" file by right clicking.
+You will need MYSQL connector and configure it using dependency.
